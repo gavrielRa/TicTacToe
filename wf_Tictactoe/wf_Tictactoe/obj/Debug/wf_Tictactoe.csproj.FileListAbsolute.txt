@@ -1,0 +1,9 @@
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\bin\Debug\wf_Tictactoe.exe.config
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\bin\Debug\wf_Tictactoe.exe
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\bin\Debug\wf_Tictactoe.pdb
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\obj\Debug\wf_Tictactoe.csprojResolveAssemblyReference.cache
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\obj\Debug\wf_Tictactoe.Properties.Resources.resources
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\obj\Debug\wf_Tictactoe.csproj.GenerateResource.Cache
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\obj\Debug\wf_Tictactoe.exe
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\obj\Debug\wf_Tictactoe.pdb
+c:\users\gavriel\documents\visual studio 2015\Projects\wf_Tictactoe\wf_Tictactoe\obj\Debug\wf_Tictactoe.TixTacToe.resources
